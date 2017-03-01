@@ -1830,3 +1830,7 @@ body.menu--open .header--sticky {
   transition-timing-function: ease-in-out;
   white-space: nowrap;
 }
+
+.project-headline {
+  color: #40968C !important;
+}
