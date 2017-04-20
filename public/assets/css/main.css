@@ -1829,6 +1829,7 @@ body.menu--open .header--sticky {
   transition-property: all;
   transition-timing-function: ease-in-out;
   white-space: nowrap;
+  z-index: -1;
 }
 
 .project-headline {
