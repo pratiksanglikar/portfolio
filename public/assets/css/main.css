@@ -1835,3 +1835,16 @@ body.menu--open .header--sticky {
 .project-headline {
   color: #40968C !important;
 }
+
+.page_footer {
+    font-size: 1.22rem;
+    line-height: 1.2rem;
+    margin-bottom: 0.75rem;
+    font-weight: 300;
+    color: #999999;
+}
+
+.page_footer::selection {
+    background: transparent;
+    color: #999999;
+}
